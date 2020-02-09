@@ -300,9 +300,3 @@ controller.start();
 // }
 // add item
 
-const yiz = [1000, 4000, 5000];
-let i = 0;
-yiz.forEach(cur => {
-    i = i + cur;
-    console.log(i);
-});
